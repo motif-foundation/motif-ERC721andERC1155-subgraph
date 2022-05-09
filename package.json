@@ -7,7 +7,9 @@
 		"deploy-motif": "graph deploy --ipfs http://localhost:5001 --node http://127.0.0.1:8020/ motif-ERC721andERC1155-subgraph"
   },
   "dependencies": {
-    "@graphprotocol/graph-cli": "^0.22.1",
-    "@graphprotocol/graph-ts": "^0.22.1"
+  "@graphprotocol/graph-cli": "^0.19.0",
+    "@graphprotocol/graph-ts": "^0.19.0"
   }
 }
+
+ 
